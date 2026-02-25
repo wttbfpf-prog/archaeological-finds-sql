@@ -200,4 +200,4 @@ Key design choices:
 
 Nikos Antonopoulos  
 MSc Prehistoric Archaeology  
-Data Analysis / Data Engineering
+Data Analysis
