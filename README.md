@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project presents a structured SQL database of prehistoric archaeological sites in Messenia and Elis (Greece), based on the regional survey data published by Hope Simpson (1972).
+This project presents a structured SQL database of prehistoric archaeological sites in Messenia and Elis (Greece), based on the regional survey data published in:
+
+The Minnesota Messenia Expedition:
+Reconstructing a Bronze Age Regional Environment
+McDonald & Rapp 1972
 
 The original publication contains unstructured textual descriptions rather than a usable dataset.  
 This project transforms the original source into a reproducible relational database and provides analytical queries for archaeological interpretation.
@@ -149,16 +153,12 @@ Example analyses included:
 
 ## How to Run
 
-1. Create database
-
-
-2. Load data
-
-
-3. Run transformations
-
-
-4. Run analysis queries
+1. Run sql/00_bootstrap/001_create_db.sql
+2. Run sql/01_raw/010_raw_schema.sql
+3. Load CSV files from data/sample/
+4. Run sql/02_clean scripts
+5. Run sql/03_bibliography scripts
+6. Query curated views
 
 
 
@@ -178,6 +178,15 @@ Key design choices:
 
 ---
 
+## Technologies
+
+- MySQL 8
+- SQL (CTEs, window functions, REGEXP)
+- Git / GitHub
+- CSV data ingestion
+
+---
+
 ## Limitations
 
 - Data derived from a single historical source
@@ -188,6 +197,7 @@ Key design choices:
 
 ## Author
 
-Postgraduate Research in Prehistoric Archaeology
 
-SQL Database Design and Data Analysis Project
+Nikos Antonopoulos  
+MSc Prehistoric Archaeology  
+Data Analysis / Data Engineering
