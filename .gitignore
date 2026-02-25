@@ -1,0 +1,27 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
+
+# DB dumps / exports
+*.sql.gz
+*.dump
+*.bak
+
+# Big data (keep only sample)
+data/raw/
+data/full/
