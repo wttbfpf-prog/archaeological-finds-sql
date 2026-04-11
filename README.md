@@ -22,39 +22,6 @@ The database was originally developed as part of a postgraduate thesis in Prehis
 
 ---
 
-## Data Model
-
-The database consists of two main tables:
-
-### `sites_messenia`
-
-Contains topographical and geographical information:
-
-- site_no (Primary Key)
-- location_desc
-- physical_desc
-- region
-- geomorphology_class
-- topographic_zone
-
-### `archaelogical_data`
-
-Contains archaeological information:
-
-- site_no (Foreign Key)
-- bibliography
-- archaeological_desc
-- pottery_analysis
-- extent_desc
-- area_ha
-- settlement_or_cemetery
-
-The tables are connected using:
-primary_key-site_no
-
-This allows flexible joins between archaeological and topographical data.
-
----
 
 ## Pipeline
 
@@ -68,7 +35,7 @@ The database is based on three core tables:
 
 - umme_sites_messenia (topographical and spatial data)
 - umme_archaeological_data (archaeological descriptions and classification)
-- registera_even (environmental, economic, and connectivity data)
+- umme_registerA_even(economic, and connectivity data)
 
 These are extended through derived fields, auxiliary tables, and curated views.
 
@@ -151,9 +118,9 @@ Tables:
 
 Views:
 
-- curated_view_sites
-- curated_view_arch_data
-- register
+- curated_sites
+- curated_arch_data
+- curated_register
 
 This preserves data traceability.
 
