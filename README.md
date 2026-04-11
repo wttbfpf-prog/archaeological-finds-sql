@@ -26,7 +26,7 @@ The database was originally developed as part of a postgraduate thesis in Prehis
 
 The database consists of two main tables:
 
-### `umme_sites_messenia`
+### `sites_messenia`
 
 Contains topographical and geographical information:
 
@@ -37,7 +37,7 @@ Contains topographical and geographical information:
 - geomorphology_class
 - topographic_zone
 
-### `umme_archaelogical_data`
+### `archaelogical_data`
 
 Contains archaeological information:
 
@@ -64,10 +64,13 @@ The pipeline follows a layered structure:
 
 Original survey data inserted without modification.
 
-Tables:
+The database is based on three core tables:
 
-- UMME_sites_messenia
-- UMME_archaelogical_data
+- umme_sites_messenia (topographical and spatial data)
+- umme_archaeological_data (archaeological descriptions and classification)
+- registera_even (environmental, economic, and connectivity data)
+
+These are extended through derived fields, auxiliary tables, and curated views.
 
 These tables preserve the original information.
 
@@ -77,13 +80,13 @@ These tables preserve the original information.
 
 Derived fields are generated using deterministic transformations:
 
-Examples:
+Transformations include:
 
-- Region classification
-- Geomorphology classification
-- Topographic zones
-- Site area extraction from text descriptions
-- Settlement vs Cemetery classification
+- Extraction of numerical values from text (e.g. site area in hectares)
+- Classification of settlements and cemeteries from textual descriptions
+- Standardization of topographic and geomorphological categories
+- Parsing of communication networks and distance from the sea
+- Creation of derived environmental indicators
 
 All transformations are implemented using SQL.
 
@@ -109,6 +112,32 @@ Tables:
 
 ---
 
+### Register Data Integration
+
+Additional environmental and economic data are incorporated from the survey register.
+
+These include:
+
+- Land use (cultivated and irrigated)
+- Water availability
+- Communication networks
+- Estimated population
+- Spatial extent (radius and hectares)
+
+This dataset complements archaeological and spatial data.
+
+### Data Quality Checks
+
+A data quality layer is implemented to monitor potential issues in the dataset.
+
+Checks are stored in a dedicated table, including:
+
+- Missing or unclassified values
+- Inconsistencies in derived fields
+- Failure rates and status indicators
+
+This provides a structured way to evaluate data reliability.
+
 ### Curated Layer
 
 Manual corrections are stored separately and merged using views.
@@ -118,11 +147,13 @@ Tables:
 - SOURCES_NON_AUTOMATED_CHANGES
 - umme_sites_messenia_NON_AUTOMATED_CHANGES
 - umme_archaelogical_data_NON_AUTOMATED_CHANGES
+- register_NON_AUTOMATED_CHANGES
 
 Views:
 
-- curated_view
-- curated_view_archaeological_data
+- curated_view_sites
+- curated_view_arch_data
+- register
 
 This preserves data traceability.
 

@@ -1,14 +1,14 @@
 -- Δημιουργία προσωρινού πίνακα με διαχωρισμό των πηγών ανα θέση*(κύριο χαρακτηριστικό είναι η παρουσία άνω τελείας. Ο διαχωρισμός γίνεται με τη χρήση αναδρομικού cte για την δημιουργία ταυτότητας για κάθε πηγή.
-create temporary table site_bibliography as
-WITH RECURSIVE num as(SELECT 1 as n 
+CREATE TEMPORARY TABLE site_bibliography AS
+WITH RECURSIVE num AS(SELECT 1 as n 
 UNION ALL
 SELECT n + 1
 FROM num
 WHERE n < 20)
 
-select dat.site_no, nums.n as reference_id,
+SELECT dat.site_no, nums.n AS reference_id,
 TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(dat.bibliography, ';', nums.n), ';', -1)) as bibliography_reference
-from umme_archaeological_data as dat
+FROM umme_archaeological_data as dat
 JOIN num as nums 
 on nums.n <= 1 + (LENGTH(dat.bibliography) - LENGTH(REPLACE(dat.bibliography, ';', ''))) 
 WHERE dat.bibliography IS NOT NULL
@@ -51,3 +51,5 @@ ADD COLUMN year text null;
 UPDATE SOURCES
 SET year = 
 regexp_substr(bibliography_reference, '(18|19|20)[0-9]{2}([–-]\s?[0-9]{1,2})?');
+
+SELECT * FROM SOURCES;

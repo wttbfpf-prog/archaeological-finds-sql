@@ -8,32 +8,59 @@ WHERE extent_desc IS NOT NULL
 AND extent_desc REGEXP 'ha';
 
 
--- Δημιουργία λειτουργικής στήλης κατηγοριοποίησης για τους οικισμούς και τα νεκροταφεία με βάση τη ποίτητα των δεδομένων.
-alter table umme_archaeological_data 
-add settlement_or_cemetery text null;
+-- Δημιουργία λειτουργικών στηλών κατηγοριοποίησης για τους οικισμούς και τα νεκροταφεία με βάση τη ποίτητα των δεδομένων.
+ALTER TABLE umme_archaeological_data 
+ADD settlement TEXT NULL;
 
-update umme_archaeological_data 
-set settlement_or_cemetery = case
-when archaeological_desc regexp 'HAB' AND
-archaeological_desc regexp 'CEM\\?' 
-THEN 'Settlement and unidentified cemetery'
-when archaeological_desc regexp 'HAB\\?' AND
-archaeological_desc regexp 'CEM'
- THEN 'Unidentified Settlement and cemetery'
-when archaeological_desc regexp 'HAB' AND
-archaeological_desc regexp 'CEM' 
-THEN 'Settlement and cemetery'
-when archaeological_desc regexp 'HAB'
-AND not archaeological_desc regexp 'CEM' 
-then 'Settlement'
-when archaeological_desc regexp 'CEM'
-AND not archaeological_desc regexp 'HAB' 
-then 'Cemetery' 
-end
-;
 
--- Διαγραφή στήλης με τις θέσεις
-Alter table umme_sites_messenia
-drop column site;
+UPDATE umme_archaeological_data 
+SET settlement = CASE
+WHEN archaeological_desc REGEXP 'HAB\\?' THEN 'Maybe'
+WHEN archaeological_desc REGEXP 'HAB'  THEN 'Yes'
+ELSE 'No'
+END;
+
+
+ALTER TABLE umme_archaeological_data 
+ADD cemetery TEXT NULL;
+
+UPDATE umme_archaeological_data 
+SET cemetery = CASE
+WHEN archaeological_desc REGEXP  'CEM\\?' THEN 'Maybe'
+WHEN archaeological_desc REGEXP 'CEM' THEN 'Yes'
+ELSE 'No'
+END;
+
+ALTER TABLE umme_archaeological_data
+ADD COLUMN  Early_Helladic TEXT NULL,
+ADD COLUMN Middle_Helladic TEXT NULL,
+ADD COLUMN Late_Helladic TEXT NULL;
+
+
+UPDATE umme_archaeological_data
+SET Early_Helladic =
+CASE WHEN pottery_analysis REGEXP '(EH\\?)' THEN 'possible'
+WHEN pottery_analysis REGEXP 'EH ' THEN'Yes'
+WHEN pottery_analysis REGEXP 'EH;' THEN 'Yes'
+ELSE 'no_data'
+END;
+
+UPDATE umme_archaeological_data
+SET Middle_Helladic =
+CASE 
+WHEN pottery_analysis REGEXP '(MH\\?)' THEN 'possible'
+WHEN pottery_analysis REGEXP 'MH ' THEN'Yes'
+WHEN pottery_analysis REGEXP 'MH;' THEN 'Yes'
+ELSE 'no_data'
+END;
+
+UPDATE umme_archaeological_data
+SET Late_Helladic = 
+CASE
+WHEN pottery_analysis REGEXP '(LH\\?)' THEN 'possible'
+WHEN pottery_analysis REGEXP 'LH' THEN'Yes'
+WHEN pottery_analysis REGEXP 'LH;' THEN 'Yes'
+ELSE 'no_data'
+END;
 
 

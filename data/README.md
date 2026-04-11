@@ -17,11 +17,13 @@ The full dataset is not included.
 
 The database includes:
 
-- Site locations and physical descriptions
-- Archaeological interpretations
+- Standardization of categorical variables (e.g. topography, water access, settlement classification)
+- Creation of derived fields (e.g. site radius, estimated hectares)
+- Integration of environmental and spatial indicators
+- Structuring of relational links between site attriβθτεσ
 - Bibliographic references
 - Chronological indicators (Early Helladic, Middle Helladic)
-- Estimated site size
+- Settlement size distribution
 - Geomorphological classifications
 
 The data were manually transcribed and structured from the original publication.

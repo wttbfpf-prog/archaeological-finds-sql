@@ -1,3 +1,10 @@
+This pipeline is designed to transform descriptive archaeological records
+into a structured dataset suitable for quantitative and comparative analysis.
+
+It separates raw ingestion, automated transformations, and manual corrections
+to ensure transparency, reproducibility, and data quality.
+
+
 # Data Pipeline
 
 The database pipeline follows three layers.
@@ -8,8 +15,9 @@ Original data imported without modification.
 
 Tables:
 
-- UMME_sites_messenia
-- UMME_archaelogical_data
+- sites_messenia
+- archaelogical_data
+- register
 
 
 ## Clean Layer

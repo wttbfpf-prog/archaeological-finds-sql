@@ -1,0 +1,203 @@
+﻿site_no;comm_uncertainty;comm_class;sea_reach;strategic_primary_class;water_access_class;radius_km;hectares;population_data;population_cat;land_pct_cultivated;land_irrigated_ha;special_features
+1;certain;mainline;moderate_distance;defensive;moderate_water;2.80;2463;800;very large;95.00;48.00;"Discovered 1939; excavated in 1952–66; administrative center of large kingdom in LHIIIB; local capital from late in MH through LHIIIA; some protection from NW winds"
+2;certain;mainline;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;"Chamber tomb and tholos excavated by Taylour 1958–59; probably extension of cemetery area belonging to #1"
+3;certain;mainline;coastal;route_control;unknown;2.00;1256;130;small;95.00;40.00;Possibly small manufacturing center
+4;certain;near_mainline;coastal;none;moderate_water;2.00;1256;390;large;95.00;NULL;"Tested by Marinatos; badly eroded"
+5;uncertain;unknown;coastal;none;unknown;NULL;NULL;no data;no data;NULL;NULL;"Excavated by Kourouniotis; review of pottery suggests this earliest known tholos in region; connected with #12"
+6;certain;secondary;coastal;defensive;unknown;NULL;NULL;78;very_small_site;NULL;NULL;Typical EH site
+7;certain;secondary;coastal;none;unknown;2.00;1963;no data;no data;90.00;15.00;Apparently N part of lagoon bed above water level at times between Early Bronze and Early Iron Age
+8;uncertain;unknown;NULL;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Marinatos
+9;certain;secondary;coastal;defensive;unknown;0.30;28;182;small;NULL;NULL;Tested by Marinatos
+10;certain;secondary;coastal;none;unknown;0.00;0;24;very_small_site;NULL;NULL;"Tested by Blegen and Theocharis; possibly shrine in LH and later"
+11;uncertain;unknown;coastal;none;unknown;NULL;NULL;no data;no data;NULL;NULL;"Excavated by Skias, Kourouniotis, Marinatos; related settlement unclear; very important for transition from Bronze to Iron Age"
+12;certain;secondary;coastal;none;unknown;2.30;1662;unclear;unclear;90.00;24.00;Excavated by Marinatos
+13;uncertain;unknown;coastal;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Probably related to #1
+14;uncertain;unknown;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Probably related to #1
+15;uncertain;mainline;coastal;none;limited_water;3.30;3421;247;medium;80.00;18.00;NULL
+16;uncertain;mainline;coastal;defensive;river_access;2.40;1810;234;medium;65.00;NULL;NULL
+17;uncertain;secondary;moderate_distance;none;moderate_water;4.10;5081;no data;no data;80.00;NULL;Fairly recent occupation has probably obscured ancient evidence
+18;uncertain;unknown;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Second smaller artificial mound ca. 200 m NE
+19;uncertain;near_mainline;moderate_distance;none;limited_water;3.60;4071;130;small;90.00;NULL;Since discovery in 1953, intensive cultivation has completely obscured surface pottery
+20;uncertain;unknown;inland;none;abundant_water;3.40;3632;unclear;unclear;90.00;10.00;"Extensive excavation by Marinatos; no habitation site identified but must have been nearer than #1 (ca. 4 km)"
+21;certain;isolated;moderate_distance;none;moderate_water;3.10;3019;52;very_small_site;50.00;20.00;NULL
+22;uncertain;unknown;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Marinatos
+23;certain;mainline;moderate_distance;none;abundant_water;2.40;1810;52;very_small_site;85.00;64.00;Tholos excavated by Choremis
+24;certain;mainline;moderate_distance;none;moderate_water;3.10;3019;no data;no data;90.00;NULL;NULL
+25;certain;mainline;near_sea;defensive;moderate_water;2.60;1385;104;small;95.00;32.00;"Excavated by Marinatos; possibly at least 1 additional habitation site in vicinity; this general area had astonishing number of royal burials"""""
+26;certain;secondary;near_sea;none;unknown;NULL;NULL;unclear;unclear;NULL;NULL;"Excavated by Marinatos; widely separated and more than 1 habitation complex almost certain"
+27;certain;mainline;near_sea;resource_access;abundant_water;2.30;1662;130;small;95.00;32.00;NULL
+28;certain;secondary;moderate_distance;none;limited_water;3.40;3632;65;very_small_site;70.00;NULL;NULL
+29;certain;mainline;coastal;none;unknown;2.20;1520;65;very_small_site;70.00;0.00;NULL
+30;certain;secondary;coastal;none;limited_water;0.80;201;39;very_small_site;95.00;0.00;NULL
+31;certain;mainline;coastal;route_control;limited_water;1.20;452;325;large;90.00;65.00;NULL
+32;certain;mainline;coastal;defensive;river_access;1.40;616;234;medium;75.00;180.00;Local rumors of tombs
+33;certain;near_mainline;coastal;none;moderate_water;2.10;1385;169;small;90.00;NULL;NULL
+34;certain;near_mainline;coastal;lookout;unknown;1.90;1134;39;very_small_site;45.00;NULL;NULL
+35;certain;secondary;coastal;none;limited_water;1.70;908;91;very_small_site;25.00;NULL;NULL
+36;certain;secondary;near_sea;none;moderate_water;2.10;1385;390;large;90.00;NULL;Trial excavation by Marinatos
+37;certain;secondary;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+38;uncertain;unknown;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+39;uncertain;unknown;moderate_distance;none;abundant_water;1.40;616;no data;no data;90.00;NULL;NULL
+40;certain;secondary;near_sea;none;unknown;1.70;908;182;small;95.00;NULL;NULL
+41;certain;secondary;moderate_distance;none;abundant_water;2.10;1385;234;medium;90.00;NULL;NULL
+42;uncertain;unknown;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;"See p. 135 of Ch. 8; excavated by Marinatos; LHIIIC sealstone found at Afaonlax ca. 300 m NE of mound"
+43;certain;secondary;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Marinatos
+44;uncertain;unknown;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Marinatos
+45;certain;secondary;moderate_distance;lookout;unknown;1.90;1134;no data;no data;90.00;NULL;Tested by Papathanasopoulos, who suggests small village, army post, or private estate here
+46;uncertain;unknown;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Magnificent view in all directions
+47;certain;isolated;coastal;lookout;river_access;1.70;908;260;medium;95.00;NULL;Typical of several W coast sites at river mouths
+48;certain;secondary;near_sea;defensive;river_access;1.60;804;234;medium;50.00;NULL;NULL
+49;certain;secondary;near_sea;none;river_access;1.90;1134;104;small;50.00;NULL;NULL
+50;certain;secondary;coastal;none;limited_water;2.50;1963;156;small;65.00;NULL;NULL
+51;uncertain;secondary;near_sea;none;river_access;2.10;1385;234;medium;55.00;NULL;NULL
+52;certain;secondary;near_sea;route_control;moderate_water;2.10;1385;52;very_small_site;40.00;NULL;NULL
+53;certain;secondary;coastal;lookout;limited_water;2.20;1520;585;very large;60.00;NULL;NULL
+54;certain;mainline;coastal;none;limited_water;1.90;1134;351;large;95.00;12.00;NULL
+55;certain;isolated;coastal;lookout;limited_water;1.70;908;156;small;95.00;24.00;NULL
+56;certain;secondary;near_sea;none;limited_water;2.90;2642;52;very_small_site;80.00;73.00;NULL
+57;certain;isolated;near_sea;none;abundant_water;2.30;1662;no data;no data;95.00;201.00;Likely Paleolithic site
+58;uncertain;unknown;near_sea;none;moderate_water;3.40;3632;no data;no data;60.00;99.00;NULL
+59;uncertain;unknown;coastal;none;limited_water;2.20;1520;26;very_small_site;95.00;62.00;NULL
+60;certain;crossroads;coastal;defensive;unknown;2.80;2463;130;small;65.00;217.00;Excavation (R only) by Yalouris and Papathanasopoulos
+61;uncertain;unknown;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Chance find reported by Marinatos
+62;certain;secondary;near_sea;none;abundant_water;3.50;3848;117;small;55.00;65.00;NULL
+63;certain;isolated;inland;none;river_access;3.50;3848;156;small;40.00;35.00;Ruins of recent village at E end of ridge
+64;certain;secondary;coastal;none;moderate_water;2.10;1385;39;very_small_site;35.00;NULL;NULL
+65;certain;secondary;near_sea;none;unknown;4.10;5027;130;small;65.00;NULL;NULL
+66;uncertain;unknown;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+67;certain;secondary;moderate_distance;defensive;abundant_water;5.00;7854;104;small;85.00;12.00;"Only good water in large area; supplies several villages"
+68;uncertain;isolated;near_sea;lookout;moderate_water;5.00;7854;104;small;85.00;NULL;NULL
+69;certain;secondary;coastal;resource_access;moderate_water;3.20;3217;325;large;85.00;10.00;NULL
+70;uncertain;unknown;coastal;none;unknown;3.30;3421;52;very_small_site;80.00;NULL;First reported by Choremis and trial excavation followed
+71;certain;crossroads;coastal;defensive;river_access;3.10;3019;520;very large;80.00;376.00;"Acropolis tested by Yalouris and McDonald (1959); salvage excavations in cemeteries by Yalouris, Papathanasopoulos, Choremis, Karageorya 1960ff.; excavation of acropolis by UMME 1969ff."
+72;certain;mainline;near_sea;none;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+73;certain;secondary;near_sea;none;abundant_water;3.50;3848;234;medium;85.00;25.00;NULL
+74;certain;isolated;moderate_distance;defensive;unknown;2.50;1963;143;small;85.00;3.00;NULL
+75;certain;isolated;coastal;lookout;unknown;3.90;4778;39;very_small_site;70.00;16.00;NULL
+76;certain;isolated;coastal;lookout;limited_water;2.40;1810;208;medium;80.00;NULL;NULL
+77;certain;very_isolated;coastal;none;limited_water;2.40;1810;no data;no data;80.00;NULL;NULL
+78;certain;mainline;coastal;none;abundant_water;2.80;2463;234;medium;85.00;NULL;Tested by Yalouris and McDonald (1959) and shown to be very badly eroded
+79;certain;secondary;coastal;none;moderate_water;3.10;3019;78;very_small_site;90.00;NULL;NULL
+80;certain;secondary;coastal;resource_access;unknown;2.30;1662;195;small;95.00;NULL;"Bronze cauldron (in Kalamata museum) salvaged from tholos and sword reportedly found; Marinatos later cleared remains of structure; pithos frags. and rim of bronze vessel 0.235 diam. from probable tholos"
+81;certain;isolated;coastal;none;unknown;2.30;1662;130;small;95.00;NULL;NULL
+82;certain;isolated;coastal;lookout;moderate_water;3.00;2827;195;small;70.00;10.00;NULL
+83;uncertain;isolated;coastal;none;river_access;2.00;1257;104;small;95.00;30.00;NULL
+84;certain;very_isolated;coastal;none;river_access;2.70;2290;no data;no data;95.00;NULL;NULL
+85;certain;secondary;moderate_distance;none;limited_water;3.90;4778;195;small;90.00;17.00;NULL
+86;uncertain;mainline;inland;resource_access;moderate_water;4.50;6362;195;small;90.00;20.00;Pottery quality suggests close connections with major centers
+87;uncertain;isolated;inland;none;moderate_water;4.30;4301;286;medium;60.00;NULL;NULL
+88;certain;isolated;inland;none;river_access;NULL;NULL;no data;no data;NULL;NULL;Quite possibly a sanctuary in LH (modern chapel of Ayii Anaryiri inside)
+89;certain;isolated;inland;none;river_access;3.90;4778;585;very large;55.00;45.00;NULL
+90;certain;secondary;inland;none;limited_water;3.50;3848;130;small;60.00;25.00;NULL
+91;certain;secondary;inland;lookout;moderate_water;4.00;5027;338;large;60.00;5.00;NULL
+92;certain;secondary;inland;none;abundant_water;4.20;5542;234;medium;85.00;15.00;NULL
+93;certain;mainline;inland;none;unknown;3.70;4301;no data;no data;NULL;NULL;"Being used as clay pit for tile factory; trial excavation by Papathanasopoulos established stratification"
+94;certain;mainline;inland;route_control;unknown;1.90;1134;39;very_small_site;95.00;18.00;Slightly higher above river than #124
+95;uncertain;unknown;NULL;none;unknown;0.00;0;no data;no data;NULL;NULL;NULL
+96;certain;mainline;inland;none;limited_water;3.90;4778;195;small;90.00;14.00;NULL
+97;certain;mainline;moderate_distance;route_control;river_access;2.70;2290;208;medium;95.00;NULL;NULL
+98;uncertain;unknown;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+99;certain;mainline;near_sea;none;unknown;2.40;1810;no data;no data;95.00;NULL;NULL
+100;certain;mainline;near_sea;none;unknown;2.30;1662;65;very_small_site;95.00;NULL;NULL
+101;certain;isolated;coastal;none;unknown;1.80;1018;no data;no data;95.00;NULL;NULL
+102;uncertain;mainline;near_sea;none;limited_water;4.10;5081;no data;no data;95.00;NULL;Contents saved from chamber tomb now in Kalamata museum
+103;uncertain;mainline;inland;lookout;abundant_water;3.50;3848;195;small;75.00;NULL;Probably most of land too wet for cultivation
+104;uncertain;unknown;NULL;none;unknown;NULL;NULL;no data;no data;NULL;NULL;"Vases chance find; Valmin later conceded fortifications probably modern"
+105;certain;mainline;inland;none;river_access;3.10;3019;156;small;75.00;NULL;NULL
+106;certain;mainline;inland;route_control;river_access;3.30;3421;no data;no data;95.00;NULL;NULL
+107;uncertain;mainline;inland;resource_access;unknown;4.20;5542;520;very large;70.00;NULL;NULL
+108;certain;mainline;moderate_distance;defensive;river_access;2.80;2463;780;very large;90.00;NULL;NULL
+109;certain;very_isolated;inland;none;limited_water;5.00;7854;260;medium;5.00;NULL;Probable refuge site and shrine
+110;certain;mainline;moderate_distance;none;moderate_water;3.40;3632;78;very_small_site;85.00;NULL;NULL
+111;certain;isolated;near_sea;lookout;moderate_water;5.00;7854;104;small;20.00;NULL;Inscriptions support Kalamai equation
+112;certain;mainline;coastal;none;unknown;2.60;2124;260;medium;80.00;NULL;NULL
+113;certain;mainline;coastal;resource_access;unknown;2.60;2124;no data;no data;80.00;NULL;NULL
+114;certain;near_mainline;coastal;lookout;moderate_water;3.00;2827;130;small;35.00;NULL;NULL
+115;certain;secondary;coastal;none;moderate_water;3.00;2827;91;very_small_site;65.00;NULL;NULL
+116;certain;isolated;moderate_distance;none;unknown;5.00;7854;no data;no data;30.00;5.00;NULL
+117;certain;secondary;near_sea;none;unknown;5.00;7854;no data;no data;50.00;25.00;Tholos excavated by Tsountas (seals, beads, ivory, steatite, lead figurines)
+118;certain;secondary;coastal;none;river_access;3.60;4071;720;very large;65.00;35.00;Unusually retentive name
+119;certain;secondary;coastal;none;unknown;3.40;3632;650;very large;90.00;NULL;NULL
+120;certain;secondary;coastal;none;moderate_water;2.90;2647;260;medium;70.00;NULL;NULL
+121;uncertain;unknown;coastal;none;unknown;3.60;4071;no data;no data;40.00;NULL;NULL
+122;certain;isolated;coastal;none;river_access;0.00;0;no data;no data;NULL;NULL;"Plan of major EH bldgs. reminiscent of House of Tiles at Lerna; excavated by Themelis and Karageorya"
+123;certain;mainline;near_sea;defensive;river_access;3.40;3632;no data;no data;75.00;20.00;Excavated by Marinatos
+124;certain;mainline;moderate_distance;none;unknown;3.60;4071;no data;no data;45.00;60.00;Excavated by Marinatos
+125;uncertain;secondary;inland;route_control;abundant_water;5.00;7854;156;small;50.00;181.00;Both pottery and location suggest “provincial” status
+126;uncertain;secondary;inland;none;moderate_water;4.20;5542;195;small;45.00;20.00;NULL
+127;certain;secondary;inland;none;limited_water;3.00;2827;195;small;85.00;NULL;NULL
+128;certain;secondary;inland;route_control;river_access;2.60;2124;130;small;90.00;120.00;NULL
+129;certain;mainline;inland;route_control;river_access;2.70;2290;52;very_small_site;90.00;NULL;NULL
+130;certain;mainline;inland;route_control;unknown;4.90;5027;no data;no data;80.00;NULL;Site first identified by Hood (1961)
+131;certain;secondary;inland;none;limited_water;3.10;3019;39;very_small_site;65.00;NULL;NULL
+132;certain;secondary;inland;none;river_access;4.20;5542;no data;no data;85.00;NULL;NULL
+133;certain;secondary;inland;none;moderate_water;3.70;4301;286;medium;70.00;NULL;Salvage by ephorate
+134;certain;mainline;inland;route_control;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+135;certain;mainline;inland;route_control;moderate_water;3.90;4778;325;large;85.00;105.00;NULL
+136;uncertain;secondary;inland;none;abundant_water;4.30;5809;78;very_small_site;65.00;7.00;So-called Adriatic ware very prominent in surface collections
+137;certain;secondary;inland;none;abundant_water;2.40;1810;no data;no data;95.00;10.00;Salvage of tomb contents by ephorate
+138;certain;secondary;inland;route_control;limited_water;2.10;1385;104;small;85.00;NULL;NULL
+139;certain;isolated;inland;none;unknown;3.70;4301;1;very_small_site;60.00;312.00;NULL
+140;certain;isolated;inland;none;moderate_water;3.00;2827;65;very_small_site;60.00;20.00;NULL
+141;certain;secondary;inland;none;moderate_water;2.90;2642;104;small;65.00;NULL;NULL
+142;certain;mainline;inland;route_control;limited_water;2.40;1810;130;small;85.00;NULL;NULL
+143;certain;mainline;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Valmin
+144;certain;secondary;inland;none;moderate_water;2.00;1257;no data;no data;65.00;NULL;NULL
+145;certain;mainline;inland;route_control;river_access;1.00;314;143;small;80.00;222.00;Very well-known site from Valmin's exploration and excavation
+146;certain;mainline;inland;none;unknown;1.10;380;390;large;70.00;31.00;"This was probably lower town connected with #222 in LH times; excavated by Valmin"
+147;certain;mainline;inland;route_control;unknown;2.40;1810;130;small;80.00;145.00;"This site or #223 has at least as good a claim as #222 to be Homeric Dorion; salvage by Yalouris"
+148;certain;secondary;inland;defensive;moderate_water;2.30;1662;104;small;70.00;107.00;NULL
+149;certain;secondary;inland;none;abundant_water;2.20;1520;no data;no data;60.00;114.00;NULL
+150;certain;secondary;inland;none;moderate_water;2.00;1256;52;very_small_site;80.00;90.00;NULL
+151;certain;mainline;inland;none;limited_water;2.70;2290;195;small;90.00;NULL;NULL
+152;certain;mainline;inland;none;river_access;2.50;1963;39;very_small_site;80.00;34.00;Approximately on height of land in valley between Steniklaros Plain and west coast
+153;certain;isolated;moderate_distance;lookout;moderate_water;3.30;3421;104;small;45.00;32.00;NULL
+154;certain;secondary;inland;none;abundant_water;3.90;4778;234;medium;80.00;226.00;NULL
+155;certain;isolated;inland;lookout;moderate_water;4.70;6940;no data;no data;65.00;52.00;NULL
+156;certain;mainline;inland;route_control;unknown;2.20;1520;52;very_small_site;95.00;NULL;NULL
+157;certain;mainline;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Valmin
+158;certain;mainline;moderate_distance;route_control;limited_water;2.00;1257;no data;no data;90.00;NULL;NULL
+159;certain;isolated;moderate_distance;none;unknown;1.70;908;156;small;90.00;NULL;NULL
+160;certain;secondary;moderate_distance;route_control;moderate_water;2.60;2124;208;medium;90.00;22.00;NULL
+161;certain;secondary;inland;lookout;moderate_water;2.80;2246;117;small;90.00;NULL;NULL
+162;certain;secondary;near_sea;lookout;abundant_water;2.70;2290;286;medium;75.00;80.00;NULL
+163;certain;isolated;moderate_distance;route_control;abundant_water;3.60;4071;130;small;45.00;21.00;NULL
+164;certain;isolated;moderate_distance;route_control;moderate_water;3.00;2827;325;large;60.00;NULL;NULL
+165;certain;isolated;near_sea;lookout;moderate_water;4.00;5027;130;small;45.00;NULL;NULL
+166;certain;secondary;coastal;none;moderate_water;3.20;3217;78;very_small_site;60.00;99.00;Seems to have replaced EH settlement (#246) that was on opposite side of river, somewhat lower and nearer sea
+167;certain;mainline;coastal;none;river_access;3.40;3632;52;very_small_site;75.00;NULL;NULL
+168;certain;secondary;near_sea;route_control;river_access;3.50;3845;195;small;40.00;80.00;NULL
+169;certain;mainline;coastal;resource_access;river_access;2.20;1520;52;very_small_site;70.00;NULL;See comments on #243
+170;certain;mainline;coastal;route_control;unknown;3.50;3848;234;medium;80.00;0.00;Very important contents of LHII period from tholoi excavated by Dörpfeld
+171;certain;mainline;coastal;none;limited_water;3.70;4301;no data;no data;80.00;NULL;NULL
+172;certain;mainline;coastal;lookout;unknown;3.90;4778;195;small;40.00;5.00;"Burial tumulus excavated by Yalouris; LM Ia imports"
+173;certain;mainline;coastal;route_control;river_access;4.40;6082;390;large;75.00;10.00;Site suggested in AJA 1961, 228, for habitation connected with these cemeteries now unlikely as result of excavation and study by Themelis
+174;uncertain;secondary;coastal;defensive;limited_water;1.50;707;208;medium;90.00;NULL;Underwater exploration of partially submerged later town by Yalouris and colleagues
+175;uncertain;secondary;coastal;lookout;unknown;2.80;2463;65;very_small_site;95.00;NULL;NULL
+176;uncertain;secondary;coastal;none;unknown;4.00;5026;32;very_small_site;95.00;NULL;NULL
+177;certain;secondary;moderate_distance;none;limited_water;4.80;7238;130;small;80.00;NULL;NULL
+178;certain;secondary;moderate_distance;lookout;unknown;3.40;3632;no data;no data;75.00;NULL;"Little evidence of prehistoric habitation; theory that Homeric Thryon here is untenable"
+179;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+180;uncertain;unknown;moderate_distance;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+181;certain;secondary;moderate_distance;none;river_access;2.50;1963;no data;no data;80.00;0.00;"Salvage by ephorate; recent EH and MH evidence indicates prehistoric settlement as well as cemetery"
+182;certain;secondary;moderate_distance;defensive;moderate_water;3.00;2827;104;small;90.00;NULL;Salvage by ephorate and study by Themelis
+183;certain;secondary;inland;route_control;river_access;2.30;1662;91;very_small_site;70.00;NULL;"Apparently 2 distinct concentrations; Raza area cemetery?; excavation and study by Themelis"
+184;uncertain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Excavated by Yalouris
+185;certain;mainline;inland;route_control;river_access;1.00;314;no data;no data;75.00;NULL;"German Archaeological School excavating here since 1870s; until recently sparse evidence for LH habitation but now incontrovertible; possibly an important shrine in LH or even before"
+186;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+187;certain;secondary;inland;route_control;river_access;1.50;707;195;small;85.00;NULL;Yalouris tested the site
+188;uncertain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+189;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;NULL
+190;uncertain;secondary;inland;route_control;moderate_water;5.00;10936;78;very_small_site;70.00;NULL;NULL
+191;certain;mainline;inland;none;river_access;1.00;314;no data;no data;85.00;NULL;Salvage by ephorate
+192;certain;mainline;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+193;certain;secondary;inland;none;river_access;2.90;2642;65;very_small_site;60.00;NULL;"Some excavation on hilltop by Dörpfeld; excavation of cemetery by ephorate"
+194;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+195;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+196;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+197;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+198;certain;secondary;inland;none;unknown;NULL;NULL;no data;no data;NULL;NULL;Salvage by ephorate
+199;uncertain;secondary;inland;route_control;river_access;4.50;6362;390;large;70.00;NULL;"Apparently excavation on hilltop and local rumors of treasure discovered"""""
+200;uncertain;mainline;inland;route_control;unknown;5.00;7854;no data;no data;40.00;NULL;NULL
+201;uncertain;secondary;inland;route_control;river_access;5.00;7854;169;small;70.00;159.00;Salvage and excavation by ephorate
+202;uncertain;secondary;inland;route_control;moderate_water;4.50;6362;104;small;80.00;NULL;NULL

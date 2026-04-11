@@ -40,9 +40,7 @@ LEFT JOIN SOURCES_NON_AUTOMATED_CHANGES as d
 ON s.site_no = d.site_no AND s.reference_id = d.reference_id;
 
 
-
-
-
+SELECT * FROM Curated_sources;
 
 
 

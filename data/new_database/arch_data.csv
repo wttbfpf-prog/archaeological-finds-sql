@@ -1,0 +1,203 @@
+﻿site_no;site;settlement;cemetery;Early_Helladic;Middle_Helladic;Late_Helladic;area_ha
+1;Chóra: Áno Englianós (Palace of Nestor);Yes;Yes;possible;Yes;Yes;6.50
+2;Písáki: Chórou and Mavroudhiá;No;Yes;possible;no_data;Yes;NULL
+3;Kórifasion: Pórtes;Yes;No;no_data;possible;Yes;1.00
+4;Kórifasion: Belferbéri;Yes;No;no_data;no_data;Yes;3.00
+5;Kórifasion: Charatsári;No;Yes;no_data;Yes;Yes;NULL
+6;Petrochóri: Profitis Ilias;Yes;Yes;Yes;possible;no_data;0.60
+7;Petrochóri: Osmánaga;Yes;No;Yes;possible;Yes;NULL
+8;Petrochóri: Voïdhokiliá;No;Yes;no_data;no_data;Yes;NULL
+9;Petrochóri: Paliókastro;Yes;Yes;no_data;no_data;Yes;1.40
+10;Petrochóri: Cave of Nestor;Yes;No;Yes;Yes;Yes;NULL
+11;Chóra: Ágios Ioánnis;No;Yes;no_data;no_data;Yes;NULL
+12;Metaxáda: Kalóspana;Yes;Maybe;no_data;possible;possible;3.00
+13;Metamórfosis: Ayía Sotíra;Maybe;No;no_data;no_data;possible;NULL
+14;Vlachopoúlo: Stanatá Ráchi;Yes;No;no_data;Yes;Yes;0.60
+15;Vlachopoúlo: Agriliá;Yes;Yes;no_data;possible;Yes;1.00
+16;Chatzi: Barbéri;Yes;No;no_data;possible;Yes;1.80
+17;Mesopótamos: Velovoúni;Yes;Yes;no_data;possible;Yes;0.90
+18;Mesopótamos: Chília Choría;Yes;Yes;no_data;possible;possible;0.50
+19;Soulinári: Tourlíthia;No;Yes;no_data;no_data;Yes;NULL
+20;Miliá: Ágios Ilías;No;Yes;no_data;possible;no_data;NULL
+21;Romirí: Ávisos;Yes;No;no_data;possible;Yes;0.40
+22;Chandhrinoú: Kissós;No;Yes;no_data;no_data;Yes;NULL
+23;Chandhrinoú: Platánia;Yes;Yes;no_data;no_data;Yes;0.40
+24;Káto Kremmidhiá: Fourzóvrisi;Maybe;Yes;no_data;no_data;Yes;NULL
+25;Koukounára: Kataráchi (possibly the a-pu2 of the Pylos tablets);Yes;Yes;no_data;Yes;Yes;0.80
+26;Stenosía: Londaríti;Yes;Yes;no_data;no_data;Yes;NULL
+27;Chandhrinoú: Koubé;Yes;Yes;no_data;no_data;Yes;1.00
+28;Kinigoú: Avarínitsa;Yes;Maybe;no_data;no_data;Yes;0.50
+29;Píla: Elítsa;Yes;No;no_data;no_data;Yes;0.50
+30;Píla: Kokkinó-rachi;Yes;No;no_data;possible;Yes;0.30
+31;Píla: Vígles;Yes;Yes;possible;possible;Yes;2.50
+32;Yialová: Palióchori;Yes;Maybe;no_data;no_data;Yes;1.80
+33;Schinolákka: Kokkiná;Yes;Yes;no_data;possible;Yes;1.30
+34;Pýlos: Vígla;Yes;Yes;no_data;no_data;Yes;0.30
+35;Pýlos: Ágios Nektários;Yes;No;no_data;no_data;Yes;0.70
+36;Iklaina: Trágana;Yes;No;no_data;Yes;Yes;3.00
+37;Iklaina: Goúvnes;Yes;No;no_data;no_data;possible;NULL
+38;Plátanos: Kritárhies;No;Yes;no_data;possible;no_data;NULL
+39;Plátanos: Lambropoúli;Yes;No;no_data;no_data;Yes;NULL
+40;Plátanos: Planígia;Yes;Maybe;no_data;possible;Yes;1.40
+41;Plátanos: Merzéni;Yes;No;no_data;possible;Yes;1.80
+42;Papoulía: Áyios Ioánnis;No;Yes;no_data;Yes;Yes;NULL
+43;Papoulía;Maybe;Yes;no_data;no_data;Yes;NULL
+44;Mirsinochóri: Roútsi;No;Yes;no_data;no_data;Yes;NULL
+45;Mirsinochóri: Váles;Yes;No;no_data;no_data;Yes;NULL
+46;Chóra: Koukóyera;No;Yes;no_data;no_data;Yes;NULL
+47;Gargaliáni: Órdhines;Yes;No;Yes;possible;Yes;2.00
+48;Válta: Áyios Pandeleímonas;Yes;Yes;no_data;no_data;Yes;1.80
+49;Válta: Kastráki;Yes;Yes;no_data;Yes;Yes;0.80
+50;Válta: Ayía Paraskeví;Yes;No;no_data;Yes;Yes;1.20
+51;Filiatrá: Kastráki;Yes;Yes;no_data;no_data;Yes;1.80
+52;Koroniéïka;Yes;No;no_data;no_data;Yes;0.40
+53;Filiatrá: Áyios Christóforos;Yes;No;no_data;Yes;Yes;4.50
+54;Filiatrá: Áyios Ioánnis;Yes;No;no_data;possible;Yes;2.70
+55;Filiatrá: Stómio;Yes;No;no_data;no_data;Yes;1.20
+56;Chalazóní: Palióchori;Yes;No;no_data;no_data;Yes;0.40
+57;Farakládha: Dhési;Maybe;No;no_data;no_data;possible;NULL
+58;Armenioí: Mána;Yes;No;no_data;no_data;Yes;NULL
+59;Spiliá: Príndzipa;Yes;No;no_data;no_data;possible;0.20
+60;"Kyparissía: Kástro (Lyk. pa-ri-so of Pylos tablets?; Homeric Kyparisseis?; Arkadhiá)";Yes;No;no_data;Yes;possible;1.00
+61;Kyparissía: Rízes;No;Yes;no_data;no_data;no_data;NULL
+62;Vrízes: Palió-trígas;Yes;No;no_data;possible;possible;0.90
+63;Flesídha: Misoráchi;Yes;No;no_data;no_data;Yes;1.20
+64;Palioneró: Áyios Konstantínos;Yes;No;no_data;Yes;Yes;0.30
+65;Mesochóri: Koutsovéri;Yes;No;no_data;no_data;Yes;1.00
+66;Mesochóri: Gdhití Ráchi;No;Maybe;no_data;Yes;no_data;NULL
+67;Káto Ambelókipi: Astropakalámeno;Yes;No;no_data;no_data;Yes;0.80
+68;Exochikón: Áyios Nikólaos;Yes;Yes;no_data;Yes;Yes;0.80
+69;Finikoús: Ayianálipsi (ka-ra-do-ro of Pylos tablets?);Yes;Maybe;Yes;Yes;Yes;2.50
+70;Methóni: Nisakoúli;Yes;No;no_data;Yes;Yes;0.40
+71;Rizómilo: Nichória (re-u-ko-to-ro of Pylos tablets?);Yes;Yes;Yes;Yes;Yes;4.00
+72;Nerómilos: Víglista;No;Yes;no_data;no_data;Yes;NULL
+73;Péra: Kárkano;Yes;No;no_data;possible;Yes;1.80
+74;Kalóchorí: Áyios Ilías;Yes;No;no_data;Yes;Yes;1.10
+75;Mathía: Piráki;Maybe;No;no_data;possible;possible;0.30
+76;Víglia: Áyios Ilías;Yes;No;no_data;no_data;Yes;1.60
+77;Longá: Palió-kastro;Yes;No;no_data;Yes;no_data;NULL
+78;Longá: Káfrio;Yes;Maybe;no_data;no_data;Yes;1.80
+79;Faláthi: Panorí(a);Yes;No;no_data;no_data;Yes;0.60
+80;Charokopió: Demotic School;Yes;Yes;no_data;no_data;Yes;1.50
+81;Áyios Isídhoros: Liofáklia;Maybe;No;no_data;no_data;possible;1.00
+82;Chrisokellariá: Áyios Athanásios;Yes;No;no_data;no_data;Yes;1.50
+83;Velíka: Skondhákis;Yes;No;no_data;Yes;Yes;0.80
+84;Velíka: Kákora Trópa;Yes;No;no_data;no_data;Yes;NULL
+85;Dára: Víglista;Yes;No;no_data;Yes;Yes;1.50
+86;Stréfi: Garbalovoúni (or Galara voúni);Yes;Yes;no_data;no_data;Yes;1.50
+87;Maryéli: Koutsovéri;Yes;No;no_data;Yes;possible;2.20
+88;Flesídha: Kouféro;Yes;No;no_data;no_data;Yes;NULL
+89;Chalvátsou: Kástro;Yes;No;no_data;possible;possible;4.50
+90;Dhraína: Koutsovéri;Yes;No;no_data;Yes;Yes;1.00
+91;Manganiakó: Paliámbela;Yes;No;no_data;no_data;Yes;2.60
+92;Trikórfo: Kakó Kataráchi;Yes;No;no_data;no_data;Yes;1.80
+93;Lámbaina: Tourkokófivouro;Maybe;Yes;Yes;no_data;Yes;NULL
+94;Aristodhímion: Paliámbeles;Yes;No;no_data;no_data;Yes;0.30
+95;Aristodhímion: Glikórizi;Yes;Maybe;Yes;no_data;no_data;0.80
+96;Éva: Nekrotafion;Yes;No;no_data;Yes;Yes;1.50
+97;Áris: Mesovoúni;Yes;No;no_data;possible;Yes;1.60
+98;Vournázi: Baroutsospiliá;Yes;No;no_data;no_data;no_data;NULL
+99;Karteróli: Áyios Konstantínos;Yes;Yes;no_data;no_data;Yes;NULL
+100;Mavromáti: Panayiá;Yes;No;Yes;no_data;Yes;0.50
+101;Messíni: Méxa;Yes;No;possible;no_data;no_data;0.30
+102;Mádhena: Áyios Konstantínos;Yes;Yes;no_data;no_data;Yes;1.50
+103;Áyios Flóros: Kamária;Yes;No;no_data;no_data;Yes;1.50
+104;Tsoukaleíka;No;Maybe;no_data;no_data;no_data;NULL
+105;Áyios Flóros;Yes;No;no_data;possible;possible;1.20
+106;Pláti: Petroýni;Yes;No;no_data;no_data;Yes;NULL
+107;Pidíma: Áyios Ioánnis;Yes;No;no_data;no_data;Yes;4.00
+108;Aïthaía: Elliniká;Yes;Yes;Yes;Yes;Yes;6.00
+109;Artemisía: Vólimnos;Yes;No;no_data;no_data;possible;2.00
+110;Thouría: Áyios Athanásios;Yes;Maybe;no_data;possible;possible;0.60
+111;Perivolákia: Sóla (ancient Kalamai?);Yes;No;no_data;no_data;Yes;0.80
+112;Kalamáta: Toúrles;Yes;No;possible;no_data;Yes;2.00
+113;Kalamáta: Kástro (Homeric Pherai);Yes;Yes;no_data;no_data;Yes;NULL
+114;Vérga: Kastráki;Yes;No;no_data;no_data;Yes;1.00
+115;Mikrá Mandinía: Áyios Yeóryios;Maybe;No;no_data;no_data;possible;0.70
+116;Pigádhia: Kok-kinochómata;Maybe;Maybe;possible;possible;Yes;NULL
+117;Kámbos: Zarnáta;Maybe;Yes;no_data;no_data;Yes;0.00
+118;"Kardhamíli: Kástro (Homeric and later?; Kardamyle)";Yes;Yes;possible;possible;possible;6.00
+119;Stoúpa: Lévtro;Yes;Yes;no_data;possible;Yes;5.00
+120;Áyios Dhimítrios: Vígla;Yes;No;no_data;no_data;Yes;2.00
+121;Koutifári: Svína (ancient Thalamai);Yes;No;no_data;no_data;Yes;NULL
+122;Kalamáta: Akovítika;Yes;No;Yes;no_data;no_data;0.00
+123;Mírou: Peristeriá;Yes;Yes;no_data;Yes;Yes;NULL
+124;Mouriátadha: Ellinikó (Lolling's candidate for Homeric Dorion);Yes;Yes;no_data;no_data;Yes;NULL
+125;Sellás: Nekrotafíon;Yes;No;no_data;possible;possible;1.00
+126;Konchilión: Kástro;Yes;No;no_data;no_data;Yes;1.50
+127;Neochóri: Koumoústa;Yes;No;no_data;no_data;Yes;1.50
+128;Stenikláros: Káto Ráchi;Yes;No;no_data;no_data;Yes;1.00
+129;Meligalás: Áyios Ilías;Yes;No;no_data;possible;Yes;0.40
+130;Kastaró: Áyios Ilías;Yes;No;no_data;possible;Yes;NULL
+131;Siférna: Paliochóri;Yes;No;no_data;possible;Yes;0.30
+132;Loutró: Karastádhes;Maybe;Yes;possible;possible;possible;NULL
+133;Kalívia: Páno Chorió;Yes;Yes;no_data;no_data;Yes;2.20
+134;"Loutró: Kók-kala (C Kálo; ?Amphéïa?)";Maybe;No;possible;no_data;possible;NULL
+135;Polichní: Áyios Taxíarchos (classical Andania?);Yes;No;no_data;possible;Yes;2.50
+136;Parapoúngi: Áyios Yeóryios;Yes;No;no_data;Yes;Yes;0.60
+137;Dhíavolitsi: Lóutses;Yes;Yes;no_data;possible;Yes;NULL
+138;Agriloússa: Áyios Nikólaos;Yes;No;no_data;Yes;Yes;0.80
+139;Káto Mélpia: Krébéni;Yes;No;no_data;possible;Yes;6.00
+140;Mándhra: Chazná;Yes;Yes;possible;possible;Yes;0.50
+141;Miliá: Profítis Ilías;Yes;No;no_data;no_data;Yes;0.80
+142;Kástró: Kástro tou Miliá (M Château-neuf?);Yes;No;no_data;possible;Yes;1.00
+143;Vasilikó: Xerovrísi;No;Yes;no_data;no_data;Yes;NULL
+144;Vasilikó: Veïzí;Yes;No;no_data;possible;possible;NULL
+145;Vasilikó: Máthi (Homeric Dorion?);Yes;Yes;possible;Yes;Yes;1.10
+146;Máthi: Goúvnes;Yes;No;no_data;no_data;Yes;3.00
+147;Kókla: Ráchi Cháni;Yes;Yes;Yes;Yes;Yes;1.00
+148;Aetós: Palió-kastro;Yes;No;no_data;Yes;Yes;0.80
+149;Aetós: Áyios Dhimítrios (A);Maybe;No;no_data;no_data;possible;NULL
+150;Aetós: Áyios Dhimítrios (B);Yes;No;no_data;possible;Yes;0.40
+151;Aetós: Mourloú;Yes;No;no_data;Yes;Yes;1.50
+152;Káto Kopanáki: Chalkiá;Yes;No;no_data;no_data;Yes;0.30
+153;Artíki: Ráchi Gortsí(a);Yes;No;no_data;possible;Yes;0.80
+154;Dhróïon: Kóndhra;Yes;No;no_data;possible;Yes;1.80
+155;Chrisochóri: Panayía;Maybe;No;no_data;no_data;possible;NULL
+156;Áno Kopanáki: Stíli;Yes;Maybe;no_data;possible;Yes;0.40
+157;Áno Kopanáki: Akórthi;No;Yes;no_data;no_data;Yes;NULL
+158;Káto Kopanáki: Paradámi;Maybe;No;no_data;no_data;possible;NULL
+159;Kamarí: Goúva;Yes;Yes;no_data;no_data;Yes;1.20
+160;Kamarí: Mesovoúni;Yes;No;no_data;Yes;Yes;1.60
+161;Áno Kopanáki: Báfano;Yes;No;no_data;no_data;Yes;0.90
+162;Glikórizi: Áyios Ilías;Yes;No;no_data;no_data;Yes;2.20
+163;Kefalóvrisi: Tsoukedhá;Yes;No;no_data;possible;Yes;1.00
+164;Sidhirókastro: Sfakoúlia;Yes;No;no_data;Yes;Yes;2.50
+165;Vandúlia: Kastrí;Yes;No;no_data;possible;Yes;1.00
+166;Fónissa: Áspra Lithária;Yes;No;no_data;Yes;Yes;0.60
+167;Tholós: Áyios Dhimítrios;Yes;No;no_data;no_data;Yes;0.40
+168;Leperó: Áyios Dhimítrios;Yes;No;Yes;Yes;Yes;1.50
+169;Yannitsochóri: Áyios Yeóryios;Yes;No;no_data;possible;Yes;0.40
+170;Kakavátos: Néstora (no longer tenable as Pylos of LH IIIB period);Yes;Yes;no_data;Yes;Yes;1.80
+171;Zacháro: Kaiména Alónia;Yes;No;no_data;no_data;Yes;NULL
+172;Káto Samikón: Klidí (probably Homeric Arene and Tomb of Iardanos);Yes;Yes;Yes;Yes;Yes;1.50
+173;"Epitálion: Áyios Yeóryios (prob. classical Thryon; classical Epitálion)";Yes;Yes;no_data;Yes;Yes;3.00
+174;"Áyios Andhréas: Pondikó-kastro (C Pheia; P is M name for acropolis)";Yes;No;Yes;Yes;Yes;1.60
+175;Skafidhá: Anemómilo;Yes;No;Yes;no_data;possible;0.50
+176;Áyios Ioánnis: Sodhiotissa;Yes;No;possible;no_data;Yes;0.25
+177;Varvásaina: Vromonéri;Yes;No;no_data;possible;Yes;1.00
+178;Salmoní: Paliópirgo;Yes;Maybe;no_data;possible;possible;NULL
+179;Stréfi;No;Yes;Yes;no_data;Yes;NULL
+180;Salmoní: Vamváki;Yes;No;no_data;no_data;no_data;NULL
+181;Makrisía: Kaniá;Yes;Yes;possible;Yes;Yes;NULL
+182;Makrisía: Áyios Ménas;Yes;Yes;no_data;Yes;Yes;0.80
+183;Makrisía: Yerakovoúni;Yes;Yes;no_data;possible;Yes;0.70
+184;Babés: Amoká-rácho;No;Maybe;no_data;no_data;Yes;NULL
+185;Olympía: Áltis (classical sanctuary);Yes;Yes;Yes;Yes;Yes;NULL
+186;Flóka;No;Yes;no_data;no_data;Yes;NULL
+187;Olympía: Dhróva;Yes;No;no_data;no_data;Yes;1.50
+188;Plátanos: Tómb-rína;No;Yes;no_data;no_data;Yes;NULL
+189;Máyira;No;Yes;no_data;Yes;Yes;NULL
+190;Ladzói: Eítia;Yes;No;no_data;no_data;Yes;0.60
+191;Olympía: New Museum;Yes;Yes;Yes;Yes;Yes;NULL
+192;Olympía: railroad station;No;Maybe;no_data;Yes;Yes;NULL
+193;Míraka: Oinomáos (ancient Pisa?);Yes;Yes;no_data;Yes;possible;0.50
+194;Míraka: Rína (or Lakkoúla);No;Maybe;no_data;no_data;Yes;NULL
+195;Kládheos: Stravokéfalo;No;Yes;no_data;no_data;Yes;NULL
+196;Kládheos: Trípes;No;Yes;no_data;no_data;Yes;NULL
+197;Kavkásia: Fengariákia (or Marmariskoi or Mathía Lákka);No;Yes;no_data;no_data;Yes;NULL
+198;Kavkaniá: Agrilítses;Maybe;No;no_data;Yes;Yes;NULL
+199;Áspra Spítia: Toúmba;Yes;No;possible;possible;possible;3.00
+200;Trípes: Palió-kastro;Yes;Yes;no_data;no_data;Yes;NULL
+201;Dhásela: Koutsochéra;Yes;Yes;no_data;no_data;Yes;1.30
+202;"Tripití: Kástro (ancient Sylon; gion?; in Mysa ca. 2 km N–NW)";Yes;No;no_data;possible;possible;0.80
