@@ -1,4 +1,4 @@
--- Δημιουργία προδωρινού πίνακα για τον έλεγχο των αποτελεσμάτων και διαμόρφωση της τελικής στήλης για την απόσταση από την θάλασσα και την επικοινωνία στο εσωτερικό της Μεσσηνίας.
+-- Δημιουργία προσωρινού πίνακα για τον έλεγχο των αποτελεσμάτων και διαμόρφωση της τελικής στήλης για την απόσταση από την θάλασσα και την επικοινωνία στο εσωτερικό της Μεσσηνίας.
 CREATE TEMPORARY TABLE SEA AS
 WITH CTE AS (
 SELECT site_no, 
@@ -29,7 +29,7 @@ FROM SEA)
 SELECT site_no, sea_reach, km + decim as sea_reach_1 FROM CTE_1;
 
 ALTER TABLE sea_reach
-ADD COLUMN sea_distance TEXT NULL;r
+ADD COLUMN sea_distance TEXT NULL;
 UPDATE sea_reach
 SET sea_distance =
 CASE
@@ -173,5 +173,4 @@ ADD CONSTRAINT chk_comm_class
 CHECK (comm_class IN ('mainline','secondary','isolated','near_mainline','crossroads','very_isolated','unknown'));
 
 
-
-SELECT * FROM register;
+SELECT * FROM umme_registerA_even;

@@ -3,7 +3,7 @@ CREATE TEMPORARY TABLE temp_table_Early
 SELECT dat.site_no, dat.site, sit.region, dat.settlement, dat.cemetery, 
 dat.Early_Helladic, dat.area_ha, sit.topo_position, sit.Artificial, sit.landform_type, sit.relief_level		
 FROM curated_arch_data AS dat
-JOIN curated_site AS sit
+JOIN curated_sites AS sit
 ON dat.site_no = sit.site_no
 WHERE sit.Region = 'Messenia' AND
 dat.Early_Helladic IN( 'Yes', 'possible');
@@ -14,7 +14,7 @@ SELECT dat.site_no, dat.site, dat.region, dat.settlement, dat.cemetery, dat.Earl
 sit.land_pct_cultivated, sit.land_irrigated_ha, sit.sea_reach, sit.comm_class, sit.comm_uncertainty, sit.water_access_class, 
 sit.strategic_primary_class, sit.radius_km, sit.hectares, sit.population_data, sit.population_cat			
 FROM temp_table_Early AS dat
-JOIN Register AS sit
+JOIN register_data AS sit
 ON dat.site_no = sit.site_no;
 
 
@@ -65,7 +65,7 @@ SELECT dat.site_no, dat.site, dat.region, dat.settlement, dat.cemetery, dat.Midd
 sit.land_pct_cultivated, sit.land_irrigated_ha, sit.sea_reach, sit.comm_class, sit.comm_uncertainty, sit.water_access_class, 
 sit.strategic_primary_class, sit.radius_km, sit.hectares, sit.population_data, sit.population_cat			
 FROM temp_table_Middle AS dat
-JOIN Register AS sit
+JOIN register_data AS sit
 ON dat.site_no = sit.site_no;
 
 
